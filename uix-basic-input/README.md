@@ -2,7 +2,7 @@
 
 [Join our Slack](https://slack.hygraph.com)
 
-This is a simple `<input />` that can be added to Hygraph as a UI extension.
+This is a simple `<input />` that can be added to Hygraph as a UI extension
 
 ## How to Use
 
